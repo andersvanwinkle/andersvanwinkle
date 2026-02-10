@@ -15,7 +15,7 @@ Data Scientist at **Meta** (NYC). I build practical, high‑leverage analytics a
 - **Flavor Bible** — a small web app for exploring ingredient pairings and flavor affinities.
   - Repo: https://github.com/andersvanwinkle/flavor-bible
 - **Met ticket monitor** — a lightweight monitor for student ticket availability (script + cron-ready).
-  - Repo: (coming soon)
+  - Repo: https://github.com/andersvanwinkle/met-ticket-monitor
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/anders-van-winkle-2326ba38/
