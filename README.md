@@ -1,5 +1,7 @@
 # Anders Van Winkle
 
+**Selected highlights:** automation + cron monitors, reproducible data tooling, and practical ML baselines that turn messy inputs into decisions.
+
 Data Scientist at **Meta** (NYC). I build practical, high‑leverage analytics and machine‑learning systems that turn messy data into decisions.
 
 - **Now:** Data Scientist @ Meta (Jan 2026–present)
