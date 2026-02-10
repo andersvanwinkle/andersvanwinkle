@@ -1,16 +1,26 @@
-## Hi there 👋
+# Anders Van Winkle
 
-<!--
-**andersvanwinkle/andersvanwinkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist at **Meta** (NYC). I build practical, high‑leverage analytics and machine‑learning systems that turn messy data into decisions.
 
-Here are some ideas to get you started:
+- **Now:** Data Scientist @ Meta (Jan 2026–present)
+- **Previously:** Data Scientist @ Arch Insurance Group (2019–2026)
+- **Education:** B.A. (Honors), Mathematics — New York University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Product & business analytics: metric design, experimentation, causal thinking
+- Applied ML: modeling pipelines, evaluation, and production-ready iteration
+- Communication: translating analysis into clear narratives and concrete next steps
+
+## Selected work
+- **Flavor Bible** — a small web app for exploring ingredient pairings and flavor affinities.
+  - Repo: https://github.com/andersvanwinkle/flavor-bible
+- **Met ticket monitor** — a lightweight monitor for student ticket availability (script + cron-ready).
+  - Repo: (coming soon)
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/anders-van-winkle-2326ba38/
+- Email: anders.vanwinkle@gmail.com
+
+---
+
+**Principle:** be precise, be honest about uncertainty, and ship the simplest thing that works.
